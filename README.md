@@ -69,7 +69,7 @@ Add screenshots after opening the file in a browser.
 
 ### Desktop View
 
-![Desktop View](../HTML-Assignment/Resume%20Screenshot.png)
+![Desktop View](Resume%20Screenshot.png)
 
 ## ✨ Features
 
