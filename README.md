@@ -99,7 +99,6 @@ If you want animations and glitter, this isn’t that party.
 Free to use, modify, and distribute.
 Just don’t sell it as “premium resume template” and pretend you invented HTML.
 
----
 
 ## 📬 Contact Me
 
@@ -111,7 +110,6 @@ Let's connect! Feel free to reach out via any of the platforms below:
 | **X (Twitter)** | [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/SaimAhmed1750588) |
 | **Email** | [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:softwareengineer278@gmail.com) |
 
----
 
 ## 👤 Author
 
